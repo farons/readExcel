@@ -1,0 +1,8 @@
+1.导入xlrd-1.0.0-py3-none-any.whl模块
+2.在cmd中，切换到本文件目录下输入：python testread.py
+
+
+数据源：data.xlsx
+目标文件： data.txt
+
+
